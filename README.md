@@ -5,16 +5,16 @@
 Some details: 
 * Edited tjbot.js adding new code without change current codes:
 - Added two additional hardware capabilities:
-leftArm
-rightArm
+    leftArm
+    rightArm
 - Added additional TJBot API (and supporting functions):
-tj.waveArms()
-tj.leftArmBack()
-tj.rightArmBack()
-tj.raiseRightArm()
-tj.raiseLeftArm()
-tj.lowerLeftArm()
-tj.lowerRightArm()
+    tj.waveArms()
+    tj.leftArmBack()
+    tj.rightArmBack()
+    tj.raiseRightArm()
+    tj.raiseLeftArm()
+    tj.lowerLeftArm()
+    tj.lowerRightArm()
 * Rewired TJBot servo motor to PIN 24 (BCM 8 )– Left Arm
 * Wired a second servo motor to PIN 22 (BCM 25) – Right Arm
 PS: Also inserted @waugh code to support multiple LEDs.
