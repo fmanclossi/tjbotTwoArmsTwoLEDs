@@ -1,6 +1,8 @@
 # TJBot Library Two Arms and Multiple LEDs in chain
 
-> Node.js FORKED library that extendss TJBot's basic capabilities: seeing, listening, speaking, shining, etc.
+> Node.js FORKED library that extends TJBot's basic capabilities with two arms ans multiple LEDs support
+
+![My image](fmanclossi/TwoArms_MultipleLEDsInChain/ASLTJBot_2018_two_arms.gif)
 
 Some details: 
 * Edited tjbot.js adding new code without change current codes:
