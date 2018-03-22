@@ -2,7 +2,8 @@
 
 > Node.js FORKED library that extends TJBot's basic capabilities with two arms ans multiple LEDs support
 
-![My image](fmanclossi/TwoArms_MultipleLEDsInChain/ASLTJBot_2018_two_arms.gif)
+![ASLTJBot](/ASLTJBot_2018_two_arms.gif)
+https://github.com/fmanclossi/TwoArms_MultipleLEDsInChain/blob/master/ASLTJBot_2018_two_arms.gif
 
 Some details: 
 * Edited tjbot.js adding new code without change current codes:
