@@ -28,7 +28,7 @@ You’ll need to be careful with your cables, so that the arm does not swing int
 The arm will swing in front of the cable exit so users will have to watch their HDMI cable - keep it elevated - so that the arm can clear it.
 New - altered - parts shown in orange here.
 
-![ASLTJBot 3D skeleton with two arms](/Images/"TJBot with Two Arms skeleton.png")
+![ASLTJBot 3D skeleton with two arms](/Images/TJBot%20with%20Two%20Arms%20skeleton.png)
 
 ![ASLTJBot 3D printed]("/Images/Two_arms_TJBot_Aaron Cox.png")
 
