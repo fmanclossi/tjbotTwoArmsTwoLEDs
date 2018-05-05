@@ -38,7 +38,7 @@ You’ll need to be careful with your cables, so that the arm does not swing int
 ![ASLTJBot right side](/Images/Two_arms_TJBot_right_side.png)
 
 # STL files - tx to Aaron Cox
-[link to STL files](https://github.com/fmanclossi/TwoArms_MultipleLEDsInChain/blob/master/TJBot%20parts%20for%202nd%20arm/TJBot%20parts%20for%202nd%20arm.zip)
+[link to STL files](https://github.com/fmanclossi/TwoArms_MultipleLEDsInChain/blob/master/TJbotFullTwoArms_20180505.zip)
 
 
 # License  
