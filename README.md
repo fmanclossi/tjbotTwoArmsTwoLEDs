@@ -26,7 +26,11 @@ Some details:
 * As original TJBot configuration, wired TJBot servo motor to PIN 26 (BCM 7) – Left Arm
 * Wired a second servo motor to PIN 22 (BCM 25) – Right Arm
 * Integrated @waugh code to support multiple LEDs and chained a second RGB LED (pay attention to LED pins layout. It can change!!!)
-![Faccina (little face](/Images/Faccina.jpg)
+
+![Chaining LEDs](/Images/TwoLEDsConnection_pay_attention.jpg)
+
+![Faccina (little face)](/Images/Faccina.jpg)
+
 P.S: I also added (not integrated) a HC-SR04 Ultrasonic sensor and played with physical layout.
  
 PPSS: I'm collected a presentation about TJBot and this task is  born to support activities performed at I.I.S. Galileo Galilei di Crema (CR), a secondary state school with about 1,900 students aged 14-19 working in two fields of education: “Applied Sciences high school” and “Technological high school”.  
