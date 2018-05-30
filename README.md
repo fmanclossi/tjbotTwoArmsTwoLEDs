@@ -8,20 +8,27 @@ First of all, read https://github.com/ibmtjbot/tjbot
 
 Some details: 
 * Edited tjbot.js adding new code without change current codes:  
-- Added two additional hardware capabilities:  
-    leftArm  
-    rightArm  
-- Added additional TJBot API (and supporting functions):  
-    tj.waveArms()  
-    tj.leftArmBack()  
-    tj.rightArmBack()  
-    tj.raiseRightArm()  
-    tj.raiseLeftArm()  
-    tj.lowerLeftArm()  
-    tj.lowerRightArm()  
-* Rewired TJBot servo motor to PIN 24 (BCM 8 )– Left Arm  
-* Wired a second servo motor to PIN 22 (BCM 25) – Right Arm  
-PS: Also inserted @waugh code to support multiple LEDs.  
+* Added two additional hardware capabilities:
+    -leftArm
+    - rightArm
+* Added additional TJBot API (and supporting functions):
+    - tj.waveArms()
+    - tj.waveLeftArm()
+    - tj.waveRightArm()
+    - tj.leftArmBack()
+    - tj.rightArmBack()
+    - tj.raiseRightArm()
+    - tj.raiseLeftArm()
+    - tj.lowerLeftArm()
+    - tj.lowerRightArm()
+    - tj.recognize()
+    - tj.shineLeftRight()
+* As original TJBot configuration, wired TJBot servo motor to PIN 26 (BCM 7) – Left Arm
+* Wired a second servo motor to PIN 22 (BCM 25) – Right Arm
+* Integrated @waugh code to support multiple LEDs and chained a second RGB LED (pay attention to LED pins layout. It can change!!!)
+![Faccina (little face](/Images/Faccina.jpg)
+P.S: I also added (not integrated) a HC-SR04 Ultrasonic sensor and played with physical layout.
+ 
 PPSS: I'm collected a presentation about TJBot and this task is  born to support activities performed at I.I.S. Galileo Galilei di Crema (CR), a secondary state school with about 1,900 students aged 14-19 working in two fields of education: “Applied Sciences high school” and “Technological high school”.  
 
 # 3D printing - tx to Aaron Cox
