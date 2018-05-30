@@ -31,7 +31,11 @@ Some details:
 
 ![Faccina (little face)](/Images/Faccina.jpg)
 
-P.S: I also added (not integrated) a HC-SR04 Ultrasonic sensor and played with physical layout.
+#Node-red nodes
+
+Node-red updated nodes are available at https://github.com/fmanclossi/node-red-contrib-tjbotTwoArmsTwoLeds. These are just adaption from ![JeanCarl BEsson Excellent work](https://github.com/jeancarl/node-red-contrib-tjbot) 
+
+P.S: In previous example, I also added (not integrated) a HC-SR04 Ultrasonic sensor and played with physical layout.
  
 PPSS: I'm collected a presentation about TJBot and this task is  born to support activities performed at I.I.S. Galileo Galilei di Crema (CR), a secondary state school with about 1,900 students aged 14-19 working in two fields of education: “Applied Sciences high school” and “Technological high school”.  
 
